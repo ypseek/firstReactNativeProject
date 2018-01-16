@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# firstReactNative
-第一个RN项目
-=======
+
 # surmon.me.native 
 
 [![](https://badge.juejin.im/entry/58e53578a0bb9f0069055b23/likes.svg?style=flat-square)](https://juejin.im/entry/58e53578a0bb9f0069055b23/detail)
@@ -181,5 +178,3 @@ surmon.me.native/
    │
    └──reset.sh                   * 清空项目依赖并重新安装
 ```
->>>>>>> first commit
-# firstReactNativeProject
